@@ -12,6 +12,7 @@ public class Customer {
     private String email;
     private String password;
 
+
     public int getId() {
         return id;
     }

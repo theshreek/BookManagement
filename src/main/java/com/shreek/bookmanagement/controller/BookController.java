@@ -59,7 +59,4 @@ public class BookController {
         responseDTO.setMessage("Book successfully delete");
         return new ResponseEntity<>(responseDTO, HttpStatus.OK);
     }
-
-
-
 }
